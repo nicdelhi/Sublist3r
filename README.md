@@ -101,7 +101,7 @@ c:\python27\python.exe -m pip install win_unicode_console colorama
 ```
 
 ## Usage
-**python sublist3r.py -d uber.com -b -e google,virustotal,yahoo -t 20**
+**python sublist3r.py -d domain.com -b -e google,virustotal,yahoo -t 20**
 Short Form    | Long Form     | Description
 ------------- | ------------- |-------------
 -d            | --domain      | Domain name to enumerate subdomains of
